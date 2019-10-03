@@ -2,7 +2,10 @@
 .jqm-demos strong { font-weight: bold; }
 .jqm-demos img { max-width: 100%; }
 .ui-header{
-background-color:red!important;
+
+
+
+background-color:green!important;
 color: white!important;
 }
 /* Page */
