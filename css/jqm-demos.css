@@ -1,7 +1,10 @@
 /* JQM Demos CSS */
 .jqm-demos strong { font-weight: bold; }
 .jqm-demos img { max-width: 100%; }
-
+.ui-header{
+background-color:red!important;
+color: white!important;
+}
 /* Page */
 body, .jqm-demos  {
 	background-color: #fefefe;
